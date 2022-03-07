@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    font-family: "Arial";
+    color: gray;
+}
+body:hover {
+    text-align: center;
+    font-family: "Arial";
+    font-weight: bold;
+    color: blue;
+    cursor: pointer;
+}
