@@ -1,12 +1,18 @@
 body {
-    text-align: center;
+    color: #333;
+    text-align: left;
     font-family: "Arial";
-    color: gray;
 }
-body:hover {
-    text-align: center;
-    font-family: "Arial";
-    font-weight: bold;
-    color: blue;
-    cursor: pointer;
+
+#container {
+    width: 70%;
+   padding: 1rem;
+   text-align: left;
+   border: 2px solid #DDD;
+   margin: 0 auto;
+}
+
+#container h1 {
+    font-size: 20px;
+    
 }
